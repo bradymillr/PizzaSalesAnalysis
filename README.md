@@ -5,6 +5,7 @@
 - [Questions](#questions) 
 - [Findings](#findings)
 - [Potential Recommendations](#potential-recommendations)
+- [Dashboard Imagery](#dashboard-images)
 
 ## Overview
 **Tableau Dashboard -** [Link](https://public.tableau.com/views/PizzaSalesDashboard_17190327361970/PizzaSalesDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
@@ -128,7 +129,9 @@ Finally, I wanted to look at something potentially negative to be discovered whe
 
   As we can see from my findings for the third question, we established that Sunday's are far less busy than any other day of the week, especially when compared to the top performing days. Therefore, I it would be fiscally advantageous to have a special such as buy one pizza, get another 50% off of Sunday's to help facilitate more sales, and drive more revenue.
   
-***2. Replace the XL Pizza With Breadsticks/Cheesesticks***
+***2. Replace the XXL Pizza With Breadsticks/Cheesesticks***
 
   Based on this dataset, the offerings within this restaurant are limited to only pizza, which causes the restaurant to miss out on other markets or add-on purchases. Therefore, I suggest adding breadsticks/cheesesticks to the menu to help facilitate a potential special on Sunday's, as mentioned above, along with more sales overall. All the equipment, tools, and ingredients to make these two new offerings are already owned and utilized by this restaurant. This means there is no realized price tag on this endeavor, other than making more dough to compensate for more orders. However, this cost is already included inside the total costs associated with creating and cooking orders.
 
+## Dashboard Images
+Below are static pictures of the Tableau dashboard I built from this dataset. While the visualization methods are straightforward, as the data as limited, the dashboard is adpative and has filters in the full link featured in the [overview](#overview) section. 
