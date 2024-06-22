@@ -7,6 +7,8 @@
 - [Potential Recommendations](#potential-recommendations)
 
 ## Overview
+**Tableau Dashboard -** [Link](https://public.tableau.com/views/PizzaSalesDashboard_17190327361970/PizzaSalesDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
 **Dataset -** When looking for a dataset where I could derive insights that would be applicable to a product business, I came across this [Pizza Sales Dataset](https://www.kaggle.com/datasets/mexwell/pizza-sales) and knew it would be a great fit for this project and me as an individual. This dataset is a historical year's worth of orders and their accompanying characteristics. More on this dataset below.
 
 **My Rationale For Choosing This Dataset -** Personally, pizza is my favorite food, and this dataset has a straight-forward and clear field layout which allows for manipulation and analysis. This dataset includes 21,350 records, and I knew it would be a good challenge to learn new skills, create a project I am proud of, and be creative when thinking about suggestions for improving this business and it's profitability.
