@@ -139,6 +139,6 @@ Below are static pictures of the Tableau dashboard I built from this dataset. Wh
 ![Graph 6](assets/img/graph%206.JPG)
 ![Graph 1](assets/img/graph%201.JPG)
 ![Graph 3](assets/img/graph%202.JPG)
-![Graph 4](assets/img/graph%203.JPG)
+![Graph 4](assets/img/hourly%203.JPG)
 ![Graph 2](assets/img/graph%204.JPG)
 ![Graph 5](assets/img/graph%205.JPG)
