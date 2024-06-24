@@ -8,7 +8,7 @@
 - [Dashboard Imagery](#dashboard-images)
 
 ## Overview
-**Tableau Dashboard -** [Link](https://public.tableau.com/views/PizzaSalesDashboard_17190327361970/PizzaSalesDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+**Tableau Dashboard -** [Link](https://public.tableau.com/views/PizzaSalesDashboard_17190327361970/PizzaSalesDashboard?:language=en-US&:sid=&:display_count=n&:origin=graph_share_link)
 
 **Dataset -** When looking for a dataset where I could derive insights that would be applicable to a product business, I came across this [Pizza Sales Dataset](https://www.kaggle.com/datasets/mexwell/pizza-sales) and knew it would be a great fit for this project and me as an individual. This dataset is a historical year's worth of orders and their accompanying characteristics. More on this dataset below.
 
@@ -136,9 +136,9 @@ Finally, I wanted to look at something potentially negative to be discovered whe
 ## Dashboard Images
 Below are static pictures of the Tableau dashboard I built from this dataset. While the visualization methods are straightforward, as the data as limited, the dashboard is adpative and has filters in the full link featured in the [overview](#overview) section. 
 
-![Graph 6](assets/img/viz%206.png)
-![Graph 1](assets/img/viz%201.png)
-![Graph 2](assets/img/viz%204.png)
-![Graph 3](assets/img/viz%202.png)
-![Graph 4](assets/img/viz%203.png)
-![Graph 5](assets/img/viz%205.png)
+![Graph 6](assets/img/graph%206.png)
+![Graph 1](assets/img/graph%201.png)
+![Graph 2](assets/img/graph%204.png)
+![Graph 3](assets/img/graph%202.png)
+![Graph 4](assets/img/graph%203.png)
+![Graph 5](assets/img/graph%205.png)
