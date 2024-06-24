@@ -136,9 +136,9 @@ Finally, I wanted to look at something potentially negative to be discovered whe
 ## Dashboard Images
 Below are static pictures of the Tableau dashboard I built from this dataset. While the visualization methods are straightforward, as the data as limited, the dashboard is adpative and has filters in the full link featured in the [overview](#overview) section. 
 
-![Graph 6](assets/img/graph%206.jpg)
-![Graph 1](assets/img/graph%201.jpg)
-![Graph 2](assets/img/graph%204.jpg)
-![Graph 3](assets/img/graph%202.jpg)
-![Graph 4](assets/img/graph%203.jpg)
-![Graph 5](assets/img/graph%205.jpg)
+![Graph 6](assets/img/graph%206.JPG)
+![Graph 1](assets/img/graph%201.JPG)
+![Graph 3](assets/img/graph%202.JPG)
+![Graph 4](assets/img/graph%203.JPG)
+![Graph 2](assets/img/graph%204.JPG)
+![Graph 5](assets/img/graph%205.JPG)
